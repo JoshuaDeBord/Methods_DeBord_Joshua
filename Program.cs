@@ -32,7 +32,7 @@ namespace Methods_DeBord_Joshua
             Console.WriteLine($"Hello, {username}. I am proud that I have met you.");
 
         }
-
+         
         static void Goodbye()
         {
             Console.WriteLine("have a fantastic day!");
